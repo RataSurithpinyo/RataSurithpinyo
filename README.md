@@ -1,10 +1,10 @@
-<h3 align="center">
-Hi, I'm Prim! nice to meet you :-)👋 whatever brings you here - I hope you have a good day 🍵
-</h3>
-
 <h2 align="center">
+Hi, I'm Prim! nice to meet you :-)👋 whatever brings you here - I hope you have a good day 🍵
+</h2>
+
+<h1 align="center">
 I'm a current senior - studying Computer Engineering, Chulalongkorn University 💻
-</h2> 
+</h1> 
 
 ## 🔭 I'm currently working on
 
