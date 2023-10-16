@@ -2,9 +2,9 @@
 Hi, I'm Prim! nice to meet you :-)👋 whatever brings you here - I hope you have a good day 🍵
 </h2>
 
-<h1 align="center">
+<h3 align="center">
 I'm a current senior - studying Computer Engineering, Chulalongkorn University 💻
-</h1> 
+</h3> 
 
 ## 🔭 I'm currently working on
 
