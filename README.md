@@ -12,7 +12,7 @@ I'm a current senior - studying Computer Engineering, Chulalongkorn University �
 
 ## 🌱 I'm currently learning
 
-- & I'm interested in designs & human-computer interaction : )
+- I'm interested in designs & human-computer interaction : )
 
 ## 💼 Technical Skills
 
