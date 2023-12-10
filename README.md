@@ -8,12 +8,10 @@ I'm a current senior - studying Computer Engineering, Chulalongkorn University �
 
 ## 🔭 I'm currently working on
 
-- A next.js project to simulate co-working space reservation
 - A web app platform for vehicle counting & classsification
 
 ## 🌱 I'm currently learning
 
-- Golang
 - & I'm interested in designs & human-computer interaction : )
 
 ## 💼 Technical Skills
