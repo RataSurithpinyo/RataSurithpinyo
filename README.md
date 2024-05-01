@@ -10,7 +10,7 @@ I'm a current senior - studying Computer Engineering, Chulalongkorn University �
 
 - A web app platform for vehicle counting & classsification
 
-## 🌱 I'm currently learning
+## 🌱 Interests
 
 - I'm interested in designs & human-computer interaction : )
 
